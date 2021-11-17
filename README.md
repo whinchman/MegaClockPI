@@ -1,2 +1,2 @@
 # MegaClockPI
-Raspberry Pi Driven Controller for the MegaClock Project
+Raspberry Pi Controller Code for the [MegaClock](http://www.github.com/whinchman/MegaClock)
